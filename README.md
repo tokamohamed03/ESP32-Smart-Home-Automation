@@ -155,12 +155,6 @@ The Android application was developed using MIT App Inventor and provides:
 * Door status monitoring
 * Door event log display
 
-### Application Screenshots
-
-![Main Screen](app/screenshots/main_screen.jpeg)
-
-![Logs Screen](app/screenshots/logs_screen.jpeg)
-
 ---
 
 ## PCB Design
