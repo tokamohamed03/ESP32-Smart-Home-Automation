@@ -135,7 +135,7 @@ Smart-Home-Automation/
 │   └── gerber_files/
 ├── hardware/
 │   └── prototype_photos/
-│   └── wiring/fritzing_schematic.png
+│   └── wiring/fritzing_schematic.jpeg
 ├── diagrams/
     ├── systemarchitecture.png
     └── communicationflow.png
@@ -177,7 +177,7 @@ A custom PCB was designed using EasyEDA to improve wiring organization and syste
 
 The complete system wiring and hardware connections were designed using Fritzing.
 
-![Fritzing Schematic](wiring/fritzing_schematic.jpeg)
+![Fritzing Schematic](hardware/wiring/fritzing_schematic.jpeg)
 
 ---
 
