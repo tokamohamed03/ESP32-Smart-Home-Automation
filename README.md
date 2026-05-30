@@ -126,7 +126,7 @@ Smart-Home-Automation/
 ├── hardware/
 │   └── prototype_photos/
 ├── diagrams/
-    ├── flowchart.png
+    ├── systemarchitecture.png
     └── communicationflow.png
 ```
 
@@ -167,6 +167,14 @@ A custom PCB was designed using EasyEDA to improve wiring organization and syste
 The complete system wiring and hardware connections were designed using Fritzing.
 
 ![Fritzing Schematic](wiring/fritzing_schematic.png)
+
+---
+
+## Diagrams
+
+![System Architecture](diagrams/systemarchitecture.png)
+
+![Bluetooth Communication Flow](diagrams/communicationflow.png)
 
 ---
 
