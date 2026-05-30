@@ -161,9 +161,9 @@ The Android application was developed using MIT App Inventor and provides:
 
 A custom PCB was designed using EasyEDA to improve wiring organization and system reliability.
 
-![PCB Layout](pcb/pcb_images/layout.png)
-
-![PCB Routing](pcb/pcb_images/routing.png)
+| PCB Layout | PCB Routing |
+|------------|------------|
+| ![PCB Layout](pcb/pcb_images/layout.png) | ![PCB Routing](pcb/pcb_images/routing.png) |
 
 ---
 
