@@ -4,13 +4,13 @@ An embedded IoT home automation project that uses an **ESP32 development board**
 
 ## Final Prototype
 
-![Final Prototype](hardware/prototype_photos/prototype.jpg)
+![Final Prototype](hardware/prototype_photos/prototype.jpeg)
 
 ## Mobile Application Interface
 
 | Main Screen | Door Logs Screen |
 |------------|------------|
-| ![Main](app/screenshots/main_screen.png) | ![Logs](app/screenshots/logs_screen.png) |
+| ![Main](app/screenshots/main_screen.jpeg) | ![Logs](app/screenshots/logs_screen.jpeg) |
 
 ## Overview
 
@@ -146,9 +146,9 @@ The Android application was developed using MIT App Inventor and provides:
 
 ### Application Screenshots
 
-![Main Screen](app/screenshots/main_screen.png)
+![Main Screen](app/screenshots/main_screen.jpeg)
 
-![Logs Screen](app/screenshots/logs_screen.png)
+![Logs Screen](app/screenshots/logs_screen.jpeg)
 
 ---
 
@@ -166,7 +166,7 @@ A custom PCB was designed using EasyEDA to improve wiring organization and syste
 
 The complete system wiring and hardware connections were designed using Fritzing.
 
-![Fritzing Schematic](wiring/fritzing_schematic.png)
+![Fritzing Schematic](wiring/fritzing_schematic.jpeg)
 
 ---
 
