@@ -126,11 +126,8 @@ Smart-Home-Automation/
 ├── hardware/
 │   └── prototype_photos/
 ├── diagrams/
-│   ├── block_diagram.png
-│   ├── flowchart.png
-│   └── state_machine.png
-└── docs/
-    └── project_report.pdf
+    ├── flowchart.png
+    └── communicationflow.png
 ```
 
 ---
