@@ -195,7 +195,6 @@ The complete system wiring and hardware connections were designed using Fritzing
 ## Future Improvements
 
 * Wi-Fi and cloud connectivity
-* Mobile notifications
 * Voice assistant integration
 * Historical database storage
 * Energy consumption monitoring
