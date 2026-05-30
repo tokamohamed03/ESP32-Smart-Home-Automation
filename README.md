@@ -28,6 +28,8 @@ The ESP32 serves as the central controller and communicates with an Android appl
 * Automatic synchronization between switch status and system state
 * Outlet control with manual and timed operation
 * Live room temperature monitoring using a DHT11 sensor
+* Temperature threshold setting using add and subtract buttons
+* Buzzer alert and app notification when the temperature exceeds the selected threshold
 * Door open/close detection using a magnetic sensor
 * Storage and display of the last 10 door event logs
 * Real-time door status monitoring
@@ -72,6 +74,10 @@ The outlet can be switched ON or OFF directly from the mobile application or sch
 ### Temperature Monitoring
 
 The DHT11 sensor continuously measures room temperature and sends the readings to the mobile application.
+
+### Temperature Threshold Alert
+
+There are add and subtract buttons that allow the user to increase or decrease the temperature threshold. When the room temperature rises above the selected threshold, the ESP32 activates the buzzer and the user receives a notification on the application.
 
 ### Door Monitoring
 
