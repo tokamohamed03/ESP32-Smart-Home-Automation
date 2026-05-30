@@ -49,7 +49,7 @@ The ESP32 serves as the central controller and communicates with an Android appl
 | DHT11 Sensor           | Temperature monitoring  |
 | Magnetic Door Sensor   | Door state detection    |
 | 2-Channel Relay Module | Bulb and outlet control |
-| LCD Display            | Shows temperature, threshold, door status|
+| LCD Display (optional)            | Shows temperature, threshold, door status|
 | Manual Switch          | Local light control     |
 | Buzzer                 | Audible feedback        |
 | LED                    | Status indication       |
