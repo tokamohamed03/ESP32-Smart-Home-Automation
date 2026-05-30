@@ -10,7 +10,7 @@ An embedded IoT home automation project that uses an **ESP32 development board**
 
 | Main Screen | Door Logs Screen |
 |------------|------------|
-| ![](app/screenshots/main_screen.png) | ![](app/screenshots/logs_screen.png) |
+| ![Main](app/screenshots/main_screen.png) | ![Logs](app/screenshots/logs_screen.png) |
 
 ## Overview
 
@@ -159,9 +159,9 @@ The Android application was developed using MIT App Inventor and provides:
 
 A custom PCB was designed using EasyEDA to improve wiring organization and system reliability.
 
-![PCB Top View](pcb/pcb_images/layout.png)
+![PCB Layout](pcb/pcb_images/layout.png)
 
-![PCB Bottom View](pcb/pcb_images/routing.png)
+![PCB Routing](pcb/pcb_images/routing.png)
 
 ---
 
