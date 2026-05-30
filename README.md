@@ -133,10 +133,9 @@ Smart-Home-Automation/
 ├── pcb/
 │   ├── pcb_images/
 │   └── gerber_files/
-├── wiring/
-│   └── fritzing_schematic.png
 ├── hardware/
 │   └── prototype_photos/
+│   └── wiring/fritzing_schematic.png
 ├── diagrams/
     ├── systemarchitecture.png
     └── communicationflow.png
