@@ -149,9 +149,7 @@ The Android application was developed using MIT App Inventor and provides:
 
 ### Application Screenshots
 
-![Home Screen](app/screenshots/home_screen.png)
-
-![Control Screen](app/screenshots/control_screen.png)
+![Main Screen](app/screenshots/main_screen.png)
 
 ![Logs Screen](app/screenshots/logs_screen.png)
 
@@ -161,9 +159,9 @@ The Android application was developed using MIT App Inventor and provides:
 
 A custom PCB was designed using EasyEDA to improve wiring organization and system reliability.
 
-![PCB Top View](pcb/pcb_images/pcb_top.png)
+![PCB Top View](pcb/pcb_images/layout.png)
 
-![PCB Bottom View](pcb/pcb_images/pcb_bottom.png)
+![PCB Bottom View](pcb/pcb_images/routing.png)
 
 ---
 
