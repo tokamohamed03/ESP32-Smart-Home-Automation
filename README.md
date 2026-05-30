@@ -1,4 +1,4 @@
-# Smart Home Automation System using ESP32, Bluetooth, and MIT App Inventor
+# Smart Home Automation System
 
 An embedded IoT home automation project that uses an **ESP32 development board** and a **mobile application built with MIT App Inventor** to monitor and control household devices through Bluetooth communication.
 
