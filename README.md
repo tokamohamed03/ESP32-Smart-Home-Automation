@@ -149,13 +149,11 @@ The Android application was developed using MIT App Inventor and provides:
 
 ### Application Screenshots
 
-```md
 ![Home Screen](app/screenshots/home_screen.png)
 
 ![Control Screen](app/screenshots/control_screen.png)
 
 ![Logs Screen](app/screenshots/logs_screen.png)
-```
 
 ---
 
@@ -163,11 +161,9 @@ The Android application was developed using MIT App Inventor and provides:
 
 A custom PCB was designed using EasyEDA to improve wiring organization and system reliability.
 
-```md
 ![PCB Top View](pcb/pcb_images/pcb_top.png)
 
 ![PCB Bottom View](pcb/pcb_images/pcb_bottom.png)
-```
 
 ---
 
@@ -175,19 +171,7 @@ A custom PCB was designed using EasyEDA to improve wiring organization and syste
 
 The complete system wiring and hardware connections were designed using Fritzing.
 
-```md
 ![Fritzing Schematic](wiring/fritzing_schematic.png)
-```
-
----
-
-## Hardware Demonstration
-
-Additional images of the assembled system and testing stages can be found in:
-
-```text
-hardware/prototype_photos/
-```
 
 ---
 
