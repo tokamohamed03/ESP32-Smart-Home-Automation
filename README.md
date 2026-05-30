@@ -34,6 +34,7 @@ The ESP32 serves as the central controller and communicates with an Android appl
 * Storage and display of the last 10 door event logs
 * Real-time door status monitoring
 * Buzzer and LED feedback
+* LCD display showing temperature, temperature threshold, and door status
 * Custom PCB designed in EasyEDA
 * Wiring diagram created in Fritzing
 * Mobile application developed using MIT App Inventor
@@ -48,6 +49,7 @@ The ESP32 serves as the central controller and communicates with an Android appl
 | DHT11 Sensor           | Temperature monitoring  |
 | Magnetic Door Sensor   | Door state detection    |
 | 2-Channel Relay Module | Bulb and outlet control |
+| LCD Display            | Shows temperature, threshold, door status|
 | Manual Switch          | Local light control     |
 | Buzzer                 | Audible feedback        |
 | LED                    | Status indication       |
@@ -86,6 +88,10 @@ A magnetic door sensor detects whether the door is open or closed and updates th
 ### Door Event Logging
 
 The system records the timestamps of recent door events and displays the latest 10 opening and closing logs through the mobile application.
+
+### LCD Display
+
+The LCD continuously displays the current room temperature, the selected temperature threshold, whether the temperature is within the acceptable range or exceeds the limit, and the door status as open or closed.
 
 ### Bluetooth Communication
 
